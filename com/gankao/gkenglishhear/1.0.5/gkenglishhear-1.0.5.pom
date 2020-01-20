@@ -46,7 +46,7 @@
     <dependency>
       <groupId>com.github.bumptech.glide</groupId>
       <artifactId>glide</artifactId>
-      <version>4.0.0</version>
+      <version>4.9.0</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
